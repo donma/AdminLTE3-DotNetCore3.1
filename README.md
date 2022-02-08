@@ -16,7 +16,7 @@ A template from the internet . I re-cook to .Net Core 3.1 and add Layout .
 
 Could you give me a STAR if you think it's useful. :)
 
-If you don't like the layout I did , you can  get pure source code from the below links.
+If you don't like the layout I did , you can  get original pure html source code from the below links.
 
 Source : https://github.com/ColorlibHQ/AdminLTE
 
